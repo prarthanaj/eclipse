@@ -1,0 +1,5 @@
+package com.xworkz.charger.dto;
+
+public class ChargerDTO {
+
+}
